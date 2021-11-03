@@ -13,7 +13,7 @@ export const getStaticProps = async () => {
     const url = "https://api-eu-central-1.graphcms.com/v2/ckuy3yk5g188901zc7rld5cpm/master"
     const graphQLClient = new GraphQLClient(url, {
         headers: {
-            "Authorization": ""
+            "Authorization": " "
         }
     })
 
