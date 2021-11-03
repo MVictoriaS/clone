@@ -1,5 +1,7 @@
 # clone
 
+This is a project to practice React, Next and learn GraphCMS.
+
 You need to create your GraphCMS Account and add assets to it, after it add the token.
 
 *npm i
